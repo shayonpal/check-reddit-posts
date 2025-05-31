@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1km8e0r",
+    "title": "In case you want to get rid of your addiction...",
+    "url": "https://www.reddit.com/r/shortcuts/comments/1km8e0r/in_case_you_want_to_get_rid_of_your_addiction/",
+    "author": "e4sy_143",
+    "subreddit": "shortcuts",
+    "created_utc": 1747204088.0,
+    "description": "Hello, my fellow addicts!\n\nI have the unhealthy habit of smoking cigarettes and have been trying to quit for some time now. \nTo visualize my progress and motivate myself, I've built this 'Sober Since...' Shortcut that shows how long I've been quitting.\n\n⭐️Features:\n- The Shortcut has two different access modes. The first is achieved by starting the Shortcut from the Shortcut App and the other mode is achieved by starting the Shortcut outside of the Shortcut App.\n- For a quick overview, the Shortcut label is updated every time you start it outside the Shortcuts App or have it updated by an Automation (best run shortly after the time of the beginning of your quitting).\n- You can place and launch the Shortcut as a widget on the home screen or in the control center to get a more detailed view of its progress.\n- Light/- and Darkmode support.\n- It is possible to restart the timer if you have a fallback (the number of attempts is counted up automatically).\n- The timestamps are encoded so that you cannot cheat yourself or others that easily ;)\n- The Shortcut works completely offline and no data ever leaves your device.\n\n⚙️Installation:\n- To use the Shortcut, you need the App DataJar (https://apps.apple.com/de/app/data-jar/id1453273600) to be able to save values permanently.\n- You need to start the Shortcut from the Shortcut App to perform the initial installation.\n- This way you can also access a menu later to edit your entries if necessary.\n\n🔗Shortcuts: \n- Shortcut: https://www.icloud.com/shortcuts/238012c12a8140a4a523db3dab06fcd8 \n- Shortcut for Automation: https://www.icloud.com/shortcuts/8ff2f00e89bc470dbd9a9f7f2021b70c\n\nIf you have any questions, problems or ideas on how to improve the Shortcut, please let me know.\n\nOtherwise, I wish everyone the best of luck to successfully and permanently overcome their addictions and hope that my little Shortcut might help you a little with that :) \nIf you can imagine it, then you can do it!",
+    "comments": 60,
+    "analysis": "The user is trying to solve the problem of motivating themselves (and others) to quit smoking by creating an Apple Shortcut that tracks and displays how long they have remained sober. They aim to visualize quitting progress, provide an easy way to monitor it through widgets or automation, prevent cheating, and offer a simple, offline tool that helps users stay committed to overcoming their addiction.",
+    "analysis_timestamp": "2025-05-19T23:43:29Z"
+  },
+  {
+    "id": "1kmtl5v",
+    "title": "Apple Pay Success Sound effect",
+    "url": "https://www.reddit.com/r/shortcuts/comments/1kmtl5v/apple_pay_success_sound_effect/",
+    "author": "PODDAAA",
+    "subreddit": "shortcuts",
+    "created_utc": 1747264815.0,
+    "description": "Here’s a simple button to play the “Apple Pay Success” sound effect. Just for pranking your friends like tapping their phone with yours and run the shortcut. A bit useless but funny :)\n\nDownload: https://www.icloud.com/shortcuts/1b49d15cc47d4fa893de01cbcc061c82",
+    "comments": 23,
+    "analysis": "The user is sharing a shortcut that plays the \"Apple Pay Success\" sound effect, intended as a prank to mimic the Apple Pay confirmation sound when tapping phones. The main problem they address is how to replicate this specific sound effect using an Apple Shortcut for fun and practical jokes.",
+    "analysis_timestamp": "2025-05-19T23:43:31Z"
+  },
+  {
+    "id": "1kmb8b5",
+    "title": "What’s the smallest AI shortcut that saved you the most time?",
+    "url": "https://www.reddit.com/r/shortcuts/comments/1kmb8b5/whats_the_smallest_ai_shortcut_that_saved_you_the/",
+    "author": "prakritiad",
+    "subreddit": "shortcuts",
+    "created_utc": 1747216352.0,
+    "description": "Not some big automation setup. Just a tiny thing that took 2 mins but now you use it constantly.  \nFor me it was a GPT that turns bullet points into full emails.  \nWould love to steal ideas—what’s yours?",
+    "comments": 68,
+    "analysis": "The user is seeking simple, small Apple Shortcuts—quickly created, minimal automations—that have saved significant amounts of time in daily use. They want to discover and share easy-to-build shortcuts, like their own GPT-powered bullet points to email converter, rather than complex setups.",
+    "analysis_timestamp": "2025-05-19T23:43:32Z"
+  },
+  {
+    "id": "1ko73v1",
+    "title": "Can I get my automation to run without clicking continue?",
+    "url": "https://www.reddit.com/r/shortcuts/comments/1ko73v1/can_i_get_my_automation_to_run_without_clicking/",
+    "author": "3thotsandacot",
+    "subreddit": "shortcuts",
+    "created_utc": 1747417613.0,
+    "description": "When the if statement is not true the music will start fine. If it is true it ask to continue and then when clicking continue it runs successfully and then says operation took too long.",
+    "comments": 12,
+    "analysis": "The user is trying to create an Apple Shortcut automation that runs automatically without requiring them to manually tap \"Continue.\" Specifically, when a certain \"if\" condition is true, the automation pauses and prompts them to click \"Continue\" before proceeding, and after running it reports \"operation took too long.\" They want to eliminate the need for this manual interaction so the automation can run seamlessly on its own.",
+    "analysis_timestamp": "2025-05-19T23:43:33Z"
+  },
+  {
+    "id": "1klv2oc",
+    "title": "I’ve made a shortcut to see at your homescreen your today’s steps and how often you reach 10k in this month.",
+    "url": "https://www.reddit.com/r/shortcuts/comments/1klv2oc/ive_made_a_shortcut_to_see_at_your_homescreen/",
+    "author": "Incubuser",
+    "subreddit": "shortcuts",
+    "created_utc": 1747164731.0,
+    "description": "Just add the single widget from shortcut to your homescreen. Then edit and choose this shortcut and tap on it. \n\nhttps://www.icloud.com/shortcuts/8e29a9ec0e9443af8438601ce8ae2c6a",
+    "comments": 5,
+    "analysis": "The main problem the user is addressing in the Reddit post is how to create and use an Apple Shortcut widget on the iPhone homescreen that displays the current day's step count and the frequency of reaching 10,000 steps in the current month. The user provides instructions for adding the widget and linking it to their custom shortcut.",
+    "analysis_timestamp": "2025-05-19T23:43:34Z"
+  }
+]

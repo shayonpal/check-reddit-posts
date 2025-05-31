@@ -1,0 +1,14 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
