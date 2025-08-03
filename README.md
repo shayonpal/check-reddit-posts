@@ -207,7 +207,15 @@ This is a personal utility script for analyzing Reddit posts to identify busines
 
 ## License
 
-This project is for personal/educational use only. Please respect Reddit's API terms of service and rate limits.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See [LICENSE.md](LICENSE.md) for details.
+
+This means you are free to:
+- Use, modify, and distribute this software
+- Any derivative work must also be licensed under GPL-3.0
+- You must include the source code when distributing
+- You must state any changes made to the code
+
+Please also respect Reddit's API terms of service and rate limits when using this tool.
 
 ## Privacy Note
 
