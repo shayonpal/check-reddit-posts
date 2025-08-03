@@ -94,7 +94,10 @@ MIN_CREATED_UTC=$(date -v-"${MIN_DAYS_AGO}"d +%s)
 
 # Prepare output file with timestamp (yyyy-MM-dd_HH-mm-ss)
 TIMESTAMP=$(date -u +%Y-%m-%d_%H-%M-%S)
-SUMMARY_FILE="summary-${TIMESTAMP}.json"
+TODAY_DATE=$(date +%Y-%m-%d)
+SUMMARY_DIR="summaries/${TODAY_DATE}"
+mkdir -p "$SUMMARY_DIR"
+SUMMARY_FILE="${SUMMARY_DIR}/summary-${TIMESTAMP}.json"
 
 summaries=()
 TOTAL_INPUT_TOKENS=0

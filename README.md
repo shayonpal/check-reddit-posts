@@ -31,9 +31,29 @@ git clone https://github.com/shayonpal/check-reddit-posts.git
 cd check-reddit-posts
 ```
 
-2. Create a `.env` file with your API credentials (see Configuration section)
+2. Copy the example environment file and edit it with your credentials:
+```bash
+cp .env.example .env
+```
 
-3. Ensure you have the required dependencies:
+3. Edit the `.env` file with your API credentials:
+   - **Reddit API**: 
+     1. Go to https://www.reddit.com/prefs/apps
+     2. Click "Create App" or "Create Another App"
+     3. Fill in the form:
+        - Name: Choose any name (e.g., "Reddit Post Analyzer")
+        - App type: Select **script**
+        - Description: Optional
+        - About URL: Leave blank
+        - Redirect URI: Use `http://localhost:8080` (required but not used)
+     4. Click "Create app"
+     5. Your credentials will be displayed:
+        - `REDDIT_CLIENT_ID`: The string under "personal use script"
+        - `REDDIT_CLIENT_SECRET`: The "secret" string
+   - **OpenAI API**: Get your key from https://platform.openai.com/api-keys
+   - Customize the subreddits and other settings as needed
+
+4. Ensure you have the required dependencies:
    - bash or zsh
    - curl
    - jq
@@ -86,7 +106,7 @@ The script will:
 ## Output
 
 ### Summary Files
-- Located in the root directory
+- Located in `summaries/YYYY-MM-DD/` directories
 - Named: `summary-YYYY-MM-DD_HH-mm-ss.json`
 - Contains array of analyzed posts with:
   - Post metadata (id, title, URL, author, subreddit, timestamp, comments)
@@ -124,6 +144,7 @@ The script will:
 
 ## Recent Updates
 
+- Modified output structure to organize summaries by date in `summaries/YYYY-MM-DD/` directories
 - Initial implementation with core functionality
 - Support for multiple subreddits
 - Configurable post ordering and timeframe

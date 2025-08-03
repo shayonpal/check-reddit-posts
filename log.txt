@@ -91,3 +91,29 @@ OpenAI output tokens: 1203
 OpenAI input cost: 0.0035 USD
 OpenAI output cost: 0.0019 USD
 OpenAI total cost: 0.0054 USD
+---
+Run timestamp: 2025-08-03_02-34-02
+Summary file: summary-2025-08-03_02-34-02.json
+Reddit API calls: 3
+OpenAI API calls: 20
+Posts analyzed:       20
+Ordering logic: top
+Subreddits: shortcuts,automation,applescript
+OpenAI input tokens: 11853
+OpenAI output tokens: 1250
+OpenAI input cost: 0.0047 USD
+OpenAI output cost: 0.0020 USD
+OpenAI total cost: 0.0067 USD
+---
+Run timestamp: 2025-08-03_02-40-00
+Summary file: summaries/2025-08-02/summary-2025-08-03_02-40-00.json
+Reddit API calls: 3
+OpenAI API calls: 20
+Posts analyzed:       20
+Ordering logic: top
+Subreddits: shortcuts,automation,applescript
+OpenAI input tokens: 11853
+OpenAI output tokens: 1261
+OpenAI input cost: 0.0047 USD
+OpenAI output cost: 0.0020 USD
+OpenAI total cost: 0.0067 USD
