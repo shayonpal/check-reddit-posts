@@ -117,3 +117,42 @@ OpenAI output tokens: 1261
 OpenAI input cost: 0.0047 USD
 OpenAI output cost: 0.0020 USD
 OpenAI total cost: 0.0067 USD
+---
+Run timestamp: 2025-08-03_03-21-58
+Summary file: summaries/2025-08-02/summary-2025-08-03_03-21-58.json
+Reddit API calls: 8
+OpenAI API calls: 5
+Posts analyzed:        4
+Ordering logic: top
+Subreddits: ClaudeAI,OpenAI,ChatGPT,perplexity_ai
+OpenAI input tokens: 2840
+OpenAI output tokens: 543
+OpenAI input cost: 0.0011 USD
+OpenAI output cost: 0.0009 USD
+OpenAI total cost: 0.0020 USD
+---
+Run timestamp: 2025-08-03_03-25-30
+Summary file: summaries/2025-08-02/summary-2025-08-03_03-25-30.json
+Reddit API calls: 32
+OpenAI API calls: 29
+Posts analyzed:       28
+Ordering logic: top
+Subreddits: ClaudeAI,OpenAI,ChatGPT,perplexity_ai
+OpenAI input tokens: 22657
+OpenAI output tokens: 4299
+OpenAI input cost: 0.0091 USD
+OpenAI output cost: 0.0069 USD
+OpenAI total cost: 0.0160 USD
+---
+Run timestamp: 2025-08-03_03-34-59
+Summary file: summaries/2025-08-02/summary-2025-08-03_03-34-59.json
+Reddit API calls: 44
+OpenAI API calls: 41
+Posts analyzed:       40
+Ordering logic: top
+Subreddits: ClaudeAI,OpenAI,ChatGPT,perplexity_ai
+OpenAI input tokens: 27189
+OpenAI output tokens: 5877
+OpenAI input cost: 0.0109 USD
+OpenAI output cost: 0.0094 USD
+OpenAI total cost: 0.0203 USD
