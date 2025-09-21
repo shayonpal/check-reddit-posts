@@ -18,3 +18,7 @@ summaries/**/*.json
 summaries/**/*.md
 !summaries/.gitkeep
 !summaries/**/.gitkeep
+
+# Data files
+log.txt
+posts.jsonl
