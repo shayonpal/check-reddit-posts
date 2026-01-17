@@ -4,6 +4,9 @@
 *.swp
 *.swo
 
+# Linting (symlinked to central config)
+.markdownlint-cli2.jsonc
+
 # OS generated files
 .DS_Store
 
